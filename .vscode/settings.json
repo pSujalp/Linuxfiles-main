@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "dynamic_array.C": "cpp",
+        "LL_usingC.C": "cpp",
+        "d_l_l.C": "cpp",
+        "C_LL.C": "cpp",
+        "stack_implemnetation_inC.C": "cpp",
+        "stack_implementation_ll.C": "cpp",
+        "hello.C": "cpp",
+        "stack_implementation_dynamic_array.C": "cpp",
+        "queue_implementation_using_dynamic_array.C": "cpp",
+        "queue_using_ll.C": "cpp",
+        "implemenattion_of_trees.C": "cpp",
+        "queues_source_code.C": "cpp",
+        "implemenattion_of_bianry_trees.C": "cpp",
+        "trees_implementation.C": "cpp",
+        ".C": "cpp",
+        "vector_implementation.C": "cpp",
+        "BT_takeinput.C": "cpp",
+        "valarray": "cpp",
+        "Tree_implementation.C": "cpp"
+    }
+}
