@@ -19,6 +19,7 @@
         "vector_implementation.C": "cpp",
         "BT_takeinput.C": "cpp",
         "valarray": "cpp",
-        "Tree_implementation.C": "cpp"
+        "Tree_implementation.C": "cpp",
+        "trie_n.C": "cpp"
     }
 }

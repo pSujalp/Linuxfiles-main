@@ -1,15 +1,15 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-struct Node
-{
-    int data;
-    Node *next;
 
-};
 
 struct linkedlist
-{
+{ 
+    struct Node
+    {
+    int data;
+    Node *next;};
+    
     Node * head=NULL;
     Node* tail=NULL;
 
